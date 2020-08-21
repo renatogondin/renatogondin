@@ -15,7 +15,7 @@ Right now, I'm updating my skills (Back-End with Java && QA/Testing) :robot:
 
 Also with .Net Core && Node.Js skills :man_technologist:
 
-Loves Classic Films && Prog Rock :heart:
+Loves Classic Films && Prog Rock :geek:
 
 
 
