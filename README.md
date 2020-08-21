@@ -4,9 +4,9 @@
 # WELCOME! HELLO, WORLD!
 ## I'm Renato! 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/renatogondin)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renatogondin)](https://github.com/renatogondin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatogondin1902@gmail.com)](mailto:renatogondin1902@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@renatogondin1902)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@renatogondin1902)](https://medium.com/@renatogondin1902)
 
 
 ## About me 
