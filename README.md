@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://github.com/renatogondin/renatogondin/blob/master/2001giphy.gif">
+<img align="right" width="400" height="400" src="https://github.com/renatogondin/renatogondin/blob/master/2001giphy.gif">
 
 
 # WELCOME! HELLO, WORLD!
