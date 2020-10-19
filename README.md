@@ -17,7 +17,7 @@ Also with .Net Core && Node.Js skills :man_technologist:
 
 Loves Classic Films && Prog Rock :checkered_flag:
 
-Also check: https://renatogondin.github.io/
+Also check:  <a href="https://renatogondin.github.io/" target="_blank">https://renatogondin.github.io/</a> 
 
 
 
