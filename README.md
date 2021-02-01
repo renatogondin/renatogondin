@@ -11,9 +11,9 @@
 
 ## About me 
 
-Right now, I'm updating my skills (Back-End with Java && QA/Testing) :robot:
+I've been currently working as a Salesforce Developer (mostly with Apex Programming Language) :robot:
 
-Also with .Net Core && Node.Js skills :man_technologist:
+I am also an enthusiast -> Java, Golang, Rust, QA, DevOps, SCRUM :man_technologist:
 
 Loves Classic Films && Prog Rock :checkered_flag:
 
@@ -22,4 +22,3 @@ Also check:  <a href="https://renatogondin.github.io/" target="_blank">My Websit
 
 
 - Thanks for your visit! 
-
