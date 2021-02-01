@@ -18,7 +18,7 @@ I am also an enthusiast -> Java, Golang, Rust, QA, DevOps, SCRUM :man_technologi
 Loves Classic Films && Prog Rock :checkered_flag:
 
 Also check:  <a href="https://renatogondin.github.io/" target="_blank">My Website</a> 
-
+or send me a message: renatogondin1902@gmail.com
 
 
 - Thanks for your visit! 
