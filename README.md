@@ -13,7 +13,7 @@
 
 I work as a Salesforce Developer (mostly with Apex Programming Language) :robot:
 
-I am also an enthusiast -> Java, Golang, Rust,Kotlin, QA, DevOps, SCRUM :man_technologist:
+I am also an enthusiast -> Java, Golang, Rust, Kotlin, QA, DevOps, SCRUM :man_technologist:
 
 Loves Classic Films && Prog Rock :checkered_flag:
 
