@@ -13,9 +13,9 @@
 
 I work as a Salesforce Developer (mostly with Apex Programming Language) :robot:
 
-I am also an enthusiast -> Java, Golang, Rust, Kotlin, QA, DevOps, SCRUM :man_technologist:
+I am also an enthusiast -> Java, Javascript, Golang, DevOps, SCRUM :man_technologist:
 
-Loves Classic Films && Prog Rock :checkered_flag:
+Loves Classic Films && Classic Rock :checkered_flag:
 
 Also check:  <a href="https://renatogondin.github.io/" target="_blank">My Website</a> 
 or send me a message: renatogondin1902@gmail.com
