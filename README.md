@@ -11,13 +11,13 @@
 
 ## About me 
 
-I work as a Salesforce Developer (mostly with Apex Programming Language) :robot:
+I work as a Salesforce Developer (Apex Programming Language, LWC, Aura, VisualForce and Javascript) :robot:
 
-I am also an enthusiast -> Java, Javascript, Golang, DevOps, SCRUM :man_technologist:
+I am also an enthusiast -> Java, Javascript, Golang, DevOps, Test Automation, SCRUM :man_technologist:
 
 Loves Classic Films && Classic Rock :checkered_flag:
 
-Also check:  <a href="https://renatogondin.github.io/" target="_blank">My Website</a> 
+Check my website for more info:  <a href="https://renatogondin.github.io/" target="_blank">My Website</a> 
 or send me a message: renatogondin1902@gmail.com
 
 
